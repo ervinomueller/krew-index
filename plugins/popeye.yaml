@@ -38,7 +38,7 @@ spec:
           os: linux
           arch: amd64
       uri: https://github.com/derailed/popeye/releases/download/v0.9.8/popeye_Linux_x86_64.tar.gz
-      sha256: a635c85539510390c3e58f8c2c810759be1812261b1a7f6864dd1c2cc51d852a
+      sha256: b8407ab3b5c450e26f9323ff3bc42c8623f8f54e733dfd1c12b3fc8be06f58ba
       files:
         - from: popeye
           to: kubectl-popeye
